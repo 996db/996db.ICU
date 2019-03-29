@@ -1,0 +1,10 @@
+{
+  "name": "996db",
+  "short_name": "996db.ICU",
+  "icons": [
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c"
+}

@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "version": "1.0.0-alpha.13",
+  "name": "docs",
+  "description": "The great 996 overtime culture databases of chinese companies",
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs --temp .temp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vuepress.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "generator"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vuepress/issues"
+  },
+  "homepage": "https://github.com/vuejs/vuepress#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.13",
+    "@vuepress/plugin-i18n-ui": "^1.0.0-alpha.13",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.13",
+    "@vuepress/plugin-notification": "^1.0.0-alpha.13",
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.13",
+    "vuepress": "^1.0.0-alpha.44",
+    "vuepress-plugin-flowchart": "^1.4.2"
+  }
+}
