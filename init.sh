@@ -10,8 +10,8 @@
 # git add -A
 # git commit -m 'first commit'
 
-# git push -f git@github.com:996db/996db.ICU.git master:gh-pages
+# git push -f https://github.com/996db/996db.ICU.git master:gh-pages
 
 # cd -
-# git clone -b gh-pages git@github.com:996db/996db.ICU.git .deploy
+# git clone -b gh-pages https://github.com/996db/996db.ICU.git .deploy
 
