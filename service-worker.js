@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b3af1256e0dcdafd2dd0c9bcd15f0796"
+    "revision": "30bc7018f545ce67557c88a155e718e2"
   },
   {
     "url": "assets/css/0.styles.b9272a5b.css",
@@ -40,24 +40,24 @@ self.__precacheManifest = [
     "revision": "2b3ef8cea7f6d2d226b1bb8171d5dec9"
   },
   {
-    "url": "assets/js/12.c1f2b420.js",
-    "revision": "a66f33bf7dc507dfdcded5a3accd3eec"
+    "url": "assets/js/12.bdad2714.js",
+    "revision": "5ffbad57f1fb3bcb6bbf12cc9d396966"
   },
   {
-    "url": "assets/js/13.b462e5e3.js",
-    "revision": "072a5fcbe63b5a66e6ed09a6236320ed"
+    "url": "assets/js/13.1306012a.js",
+    "revision": "daa2a62e686cf7de2c81d95d8c6d47a5"
   },
   {
     "url": "assets/js/14.06768615.js",
     "revision": "cddec11400f66be91af22d46a3217632"
   },
   {
-    "url": "assets/js/15.93c63357.js",
-    "revision": "de7c3733a4f8dcdde8ad90935c1b0cfa"
+    "url": "assets/js/15.3f202c72.js",
+    "revision": "69cba63e14283347fbd4bf039665816b"
   },
   {
-    "url": "assets/js/16.ac38f153.js",
-    "revision": "0e0f7f7ef5ebb7848c078da5ef2d0aaf"
+    "url": "assets/js/16.0d775bf0.js",
+    "revision": "15f0fc1aab1579144b7cee8209d89ef6"
   },
   {
     "url": "assets/js/17.a4f87f69.js",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "revision": "547c707e7b23d904b0b5cb1b4f1a62dc"
   },
   {
-    "url": "assets/js/app.ef0f64e7.js",
-    "revision": "3fb07cd2bab6cd0ccb8e1bcb6f1027fc"
+    "url": "assets/js/app.1541b5e5.js",
+    "revision": "ebaeb0f4e4d01fbdb6daa44c4a1d5d66"
   },
   {
     "url": "assets/js/vendors~flowchart.d5613a2b.js",
@@ -109,31 +109,31 @@ self.__precacheManifest = [
   },
   {
     "url": "dbs/companys/1/1.html",
-    "revision": "bacd54f7604bb8a0b011d446216dbb37"
+    "revision": "ddeba4c4bccb766ae526b562b045c473"
   },
   {
     "url": "dbs/companys/1/2.html",
-    "revision": "73e49527cef560038bf3b668a90ccbf7"
+    "revision": "a8ca4feb983bf5fa7827b88b33d8c283"
   },
   {
     "url": "dbs/guides/1/1.html",
-    "revision": "ec59bde0f3e9d1da887f64763e8f0f04"
+    "revision": "8ad91ddd44aa07140504e134b2230507"
   },
   {
     "url": "dbs/storys/1/1.html",
-    "revision": "c31966285a58cf90118ffbe671d0ab1c"
+    "revision": "04525ff5d797cb8e9dc030582b981ec6"
   },
   {
     "url": "dbs/toutiao/1/1.html",
-    "revision": "6976cb16417c9098b08b745111f7f82c"
+    "revision": "8ae7fea3d63bcdacf9cdfc8fc5e5018b"
   },
   {
     "url": "docs/index.html",
-    "revision": "c121203cbd65b991897c12b20db9f32b"
+    "revision": "beb4d5c8ac683ff2f8f65d3e31913fbe"
   },
   {
     "url": "guide/index.html",
-    "revision": "3230445f8f841c7ed19063b1653f20ff"
+    "revision": "66a35b666bd0d0631fb18015eb4551d6"
   },
   {
     "url": "hero.png",
@@ -141,7 +141,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6ea4b83222809ecd0b6de41eed6803f1"
+    "revision": "86220152e2c29beae20634a75ab34d71"
   },
   {
     "url": "line-numbers-desktop.png",
