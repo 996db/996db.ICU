@@ -10,4 +10,8 @@
  * 生存指南 (`docs/dbs/guides/1/1.md`)
  * 加班故事会 (`docs/dbs/storys/1/1.md`)
  * 头条 (`docs/dbs/toutiao/1/1.md`)
+
+更多信息请访问查看详情
+
+https://github.com/996db/996db.ICU
  
