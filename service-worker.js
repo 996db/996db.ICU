@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c68bed070c26959f4c30f26762c5bfe8"
+    "revision": "1b0f1abdebcaec57e3da8ddf72951f62"
   },
   {
     "url": "assets/css/0.styles.b9272a5b.css",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "revision": "b6e9f6b5d5c476ee64e94059f608e377"
   },
   {
-    "url": "assets/js/11.7aaa4834.js",
-    "revision": "8ec108beb48917a8b6d8d96852d6dfea"
+    "url": "assets/js/11.2edeac3e.js",
+    "revision": "cdd7daf68268ae99dabb74a0e3134cdf"
   },
   {
     "url": "assets/js/12.fc378c65.js",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "revision": "072a5fcbe63b5a66e6ed09a6236320ed"
   },
   {
-    "url": "assets/js/14.58fc9e83.js",
-    "revision": "3200dbeb9ebff0d4aaad6fedbb127fdf"
+    "url": "assets/js/14.06768615.js",
+    "revision": "cddec11400f66be91af22d46a3217632"
   },
   {
     "url": "assets/js/15.93c63357.js",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "revision": "547c707e7b23d904b0b5cb1b4f1a62dc"
   },
   {
-    "url": "assets/js/app.c209bc2b.js",
-    "revision": "adcd4716b36a09858829b7deb150d846"
+    "url": "assets/js/app.f7e12b91.js",
+    "revision": "adcd80750ee5eab67c5732d3347dc56c"
   },
   {
     "url": "assets/js/vendors~flowchart.d5613a2b.js",
@@ -109,31 +109,31 @@ self.__precacheManifest = [
   },
   {
     "url": "dbs/companys/1/1.html",
-    "revision": "4bbedaf117e978dc4a6dfbc7f735972b"
+    "revision": "5618aaf185e1ddb8bd1a1b9ceaeec52e"
   },
   {
     "url": "dbs/companys/1/2.html",
-    "revision": "6c63b9d18d288330204cc6e5cb81095c"
+    "revision": "54621c6cad1ea8a680375a7e04271d9a"
   },
   {
     "url": "dbs/guides/1/1.html",
-    "revision": "798fb693e45553fb84fabfbbf6b9cb60"
+    "revision": "e8ff6062a734b3afa29cd49ba75342ed"
   },
   {
     "url": "dbs/storys/1/1.html",
-    "revision": "06a387cd68b15f6adfe85ad2ba79ea95"
+    "revision": "fffd7323b73b5b2516bebef6bc030352"
   },
   {
     "url": "dbs/toutiao/1/1.html",
-    "revision": "00000d22833681c808ba9c5fb606b78a"
+    "revision": "e370ef8627b0b6024024c0a54886abe1"
   },
   {
     "url": "docs/index.html",
-    "revision": "a997e85a114b0c65b555a6a32519860c"
+    "revision": "5aa54e8fa9af435db97a8212b4ebf146"
   },
   {
     "url": "guide/index.html",
-    "revision": "d7fafcfd61142ce28675bde6d04266f5"
+    "revision": "06b0490b4d66d3e16e56a6d369bcf128"
   },
   {
     "url": "hero.png",
@@ -141,7 +141,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "768726a33cd1daba0f8d08fad00c203b"
+    "revision": "b9b3e4f9e48155de3176313b08025a4c"
   },
   {
     "url": "line-numbers-desktop.png",
