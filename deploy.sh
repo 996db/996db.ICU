@@ -15,6 +15,7 @@ cd .deploy
 git add -A
 git commit -m "$commit"
 
+git pull
 git push git@github.com:996db/996db.ICU.git gh-pages
 
 cd -
