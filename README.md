@@ -8,6 +8,8 @@ This site is built with [VuePress](https://vuepress.vuejs.org).
 
 VuePress 提供了简单的搜索功能可以很便捷搜索到信息。
 
+![guide](guide.jpg)
+
 ## 贡献指南 
 
 你只需要编写好 markdown 即可，提交 PR 即可，VuePress 会自动管理好一切并提供一个简洁的搜索功能。
