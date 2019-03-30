@@ -23,6 +23,13 @@ VuePress 提供了简单的搜索功能可以很便捷搜索到信息。
  * 加班故事会 (`docs/dbs/storys/1/1.md`)
  * 头条新闻 (`docs/dbs/toutiao/1/1.md`)
 
+对应的网址
+
+ * https://996db.icu/dbs/companys/1/1.html
+ * https://996db.icu/dbs/guides/1/1.html
+ * https://996db.icu/dbs/storys/1/1.html
+ * https://996db.icu/dbs/toutiao/1/1.html
+
 ## Development 开发
 
 Start a dev server at `localhost:8088`:
@@ -32,8 +39,10 @@ Start a dev server at `localhost:8088`:
 ```
 & yarn add vuepress@next -D 
 $ yarn run dev
-& sh ./init.sh # need remove note
+& sh ./init.sh # 放开注释初始化站点 
 ```
+
+![site](site.jpg)
 
 ## Publish 发布
 
