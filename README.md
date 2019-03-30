@@ -2,7 +2,7 @@
 
 The great 996 overtime culture databases of chinese companies.
 
-盛行 996 加班文化的中国公司数据库。
+盛行 996 加班文化的中国公司数据库,数据以 Markdown 作为载体，VuePress 提供简单的搜索服务,提供非严肃的站点请酌情看待。
 
 This site is built with [VuePress](https://vuepress.vuejs.org). 
 
